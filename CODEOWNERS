@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @malikprateekdev-commit
+/src/backend/database.py      @malikprateekdev-commit
+/src/backend/routers/auth.py  @malikprateekdev-commit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @malikprateekdev-commit
